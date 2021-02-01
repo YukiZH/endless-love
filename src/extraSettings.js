@@ -31,10 +31,10 @@ let fruitSlowDown = false;
 let adLink = false;
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = '合成蓝色生死恋';
+document.getElementsByTagName("title")[0].innerText = '处处肝：合成蓝色生死恋';
 
 // 开启选分弹窗：将 false 改为 true
-let selectModal = true;
+let selectModal = false;
 
 // 水果合成反转：false 改为 true（尚未支持）
 let reverseLevelUp = false;
